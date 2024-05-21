@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "El planeta de los simios",
+      "precio": 19.95,
+      "url": "https://es.web.img3.acsta.net/r_200_283/pictures/24/02/12/14/09/5012504.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Gladiador",
+      "precio": 59.99,
+      "url": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/70/92/02/20149073.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Garfield",
+      "precio": 34.9,
+      "url": "https://es.web.img3.acsta.net/r_200_283/img/c7/8f/c78f03f18bedb20a5bb8171012b053ff.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "los extraños",
+      "precio": 25.5,
+      "url": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_card/7/1/0/9/59017-1-esl-CO/05bb92d78f91-2_poster_480x670.png"
+    },
+    {
+      "nombre": "Godzilla x Kong",
+      "precio": "50",
+      "url": "https://archivos-cms.cinecolombia.com/images/_aliases/poster_card/6/1/5/6/56516-9-esl-CO/003944f27549-480x670.jpg",
+      "id": "2P3tUrW"
+    },
+    {
+      "nombre": "",
+      "precio": "",
+      "url": "",
+      "id": "_qKW6fJ"
+    },
+    {
+      "nombre": "",
+      "precio": "",
+      "url": "",
+      "id": "ymKEtSj"
+    }
+  ]
+}
